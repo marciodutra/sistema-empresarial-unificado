@@ -2,15 +2,6 @@
 
 Desenvolvimento de um Sistema Empresarial utilizando o acesso a banco de dados, com funções de cadastrar, modificar, visualizar e remover os dados.
 
-## Projeto em Produção -  [🎬 Visualizar Projeto](https://delisguerra-empresa.000webhostapp.com/)
-
-![](assets/img/mockup.png)
-
-O projeto foi implantado na plataforma de subdomínio [000webhost](https://br.000webhost.com/) e está totalmente funcional em produção. Integrado com o banco de dados [PHPMyAdmin](https://www.phpmyadmin.net/), garantindo que todos os dados necessários para o funcionamento do projeto sejam gerenciados de forma eficaz.
-
-
-
-Para visualizar o projeto em ação, basta clicar no link:  [Visualizar Projeto](https://delisguerra-empresa.000webhostapp.com/)
 
 ## 📌 Tecnologias
 
@@ -108,5 +99,5 @@ Isso conclui a descrição da lógica de negócio das tabelas `funcao` e `funcio
 
 :tada: Agradecemos por visitar e explorar o nosso projeto! Se tiver alguma dúvida ou feedback, não hesite em entrar em contato:
 
-- Email: **delisgmarques@gmail.com**
+- Email: **professormarciodutra@gmail.com**
 
